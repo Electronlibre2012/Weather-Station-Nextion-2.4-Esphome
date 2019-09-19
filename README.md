@@ -2,7 +2,7 @@
 Weather Station with Nextion 2.4"
 
 
-this is the nice project from @Vaclav Chaloupka (GitHub: https://github.com/bruxy70) and Paradis Artificiels (Romain) in French! (tuto #18 : https://www.youtube.com/watch?v=lCuXGcnOQ7g&t=320s)
+this is the nice project from @Vaclav Chaloupka (GitHub: https://github.com/bruxy70) and Paradis Artificiels (Roman) in French! (tuto #18 : https://www.youtube.com/watch?v=lCuXGcnOQ7g&t=320s)
 
 New project complete : (tuto #20) : https://www.youtube.com/watch?v=I-w90TQwgCo&t=180s
 
