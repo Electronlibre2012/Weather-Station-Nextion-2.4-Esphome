@@ -10,4 +10,6 @@ Thanks to Romain who make those nice vidéos.
 
 A link to my thingverse page for the STL files : https://www.thingiverse.com/thing:3870170
 
+I mage 3 pages with icons back and forward to navigate, up to you to put what you want in the differents page.
+
 Enjoy ;)
